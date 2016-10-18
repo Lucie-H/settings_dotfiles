@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Babel",
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"Cucumber",
+		"Gherkin (Cucumber) Formatter",
+		"GotoWindow",
+		"Handlebars",
+		"HTML Boilerplate",
+		"jQuery",
+		"JSX",
+		"Package Control",
+		"ReactJS",
+		"Sass",
+		"SublimeLinter-contrib-eslint",
+		"Unicode Character Highlighter"
+	]
+}
